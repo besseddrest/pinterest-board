@@ -1,0 +1,26 @@
+{
+  "name": "pinterest",
+  "version": "1.0.0",
+  "description": "An exercise recreating the home page of Pinterest in ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harold Cabalic",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^3.0.0",
+    "gulp-webserver": "^0.9.1",
+    "jshint-stylish": "^2.2.1",
+    "lodash": "^4.17.2",
+    "reactify": "^1.1.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  }
+}
